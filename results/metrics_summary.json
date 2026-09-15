@@ -1,0 +1,22 @@
+{
+  "public_score_anchor": 0.89769,
+  "test_rows": 140,
+  "metadata_chunks": 1668,
+  "sentence_corpus": 21329,
+  "documents": 7,
+  "question_families": 6,
+  "semantic_cells": 42,
+  "grounding_audit": {
+    "supported": 27,
+    "partial": 15,
+    "weak": 0
+  },
+  "canonical_observed_cells": 28,
+  "sample_prediction_types": {
+    "canonical": 63,
+    "generic": 42,
+    "truncated": 35
+  },
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "reranker_model": "BAAI/bge-reranker-base"
+}

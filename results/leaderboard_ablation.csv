@@ -1,0 +1,7 @@
+version,experiment,public_score
+V1,Canonical reconstruction anchor,0.89769
+V2,Same predictions; reference fields changed,0.89769
+V3,Grounding-oriented ESCALATION answer rewrite,0.78867
+V4,Generic sample answers restored,0.6842
+V5,Truncated sample answers restored,0.76991
+V6,V1 predictions with RAG-derived sections,0.89769
